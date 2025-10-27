@@ -1,0 +1,251 @@
+timestamp,target_identification,threat_level,navigation_instruction
+2024-01-01 00:58:20,Unknown,Medium,Initiate Scan Protocol
+2024-01-01 00:58:21,Unknown,Medium,No Action Required
+2024-01-01 00:58:22,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:58:23,Unknown,Medium,Maintain Current Course
+2024-01-01 00:58:24,Unknown,Medium,Maintain Current Course
+2024-01-01 00:58:25,Unknown,Medium,No Action Required
+2024-01-01 00:58:26,Unknown,Medium,Prepare Defensive Measures
+2024-01-01 00:58:27,Unknown,Medium,Initiate Scan Protocol
+2024-01-01 00:58:28,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:58:29,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:58:30,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 00:58:31,Unknown,Low,Prepare Defensive Measures
+2024-01-01 00:58:32,Unknown,High,Prepare Defensive Measures
+2024-01-01 00:58:33,Unknown,Medium,Maintain Current Course
+2024-01-01 00:58:34,Unknown,Medium,No Action Required
+2024-01-01 00:58:35,Unknown,High,No Action Required
+2024-01-01 00:58:36,Unknown,Medium,Prepare Defensive Measures
+2024-01-01 00:58:37,Unknown,Medium,Maintain Current Course
+2024-01-01 00:58:38,Unknown,Medium,Initiate Scan Protocol
+2024-01-01 00:58:39,Unknown,Medium,Adjust Course 5 Degrees North
+2024-01-01 00:58:40,Unknown,High,Maintain Current Course
+2024-01-01 00:58:41,Unknown,High,Maintain Current Course
+2024-01-01 00:58:42,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 00:58:43,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:58:44,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:58:45,Unknown,Low,Initiate Scan Protocol
+2024-01-01 00:58:46,Unknown,Medium,Maintain Current Course
+2024-01-01 00:58:47,Unknown,Medium,Initiate Scan Protocol
+2024-01-01 00:58:48,Unknown,Medium,Initiate Scan Protocol
+2024-01-01 00:58:49,Unknown,High,Prepare Defensive Measures
+2024-01-01 00:58:50,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:58:51,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:58:52,Unknown,Medium,Prepare Defensive Measures
+2024-01-01 00:58:53,Unknown,Medium,Initiate Scan Protocol
+2024-01-01 00:58:54,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:58:55,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:58:56,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:58:57,Unknown,High,No Action Required
+2024-01-01 00:58:58,Unknown,High,Maintain Current Course
+2024-01-01 00:58:59,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:59:00,Unknown,Medium,Prepare Defensive Measures
+2024-01-01 00:59:01,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:59:02,Unknown,Medium,Adjust Course 5 Degrees North
+2024-01-01 00:59:03,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:59:04,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:59:05,Unknown,High,Maintain Current Course
+2024-01-01 00:59:06,Unknown,Medium,Maintain Current Course
+2024-01-01 00:59:07,Unknown,High,Initiate Scan Protocol
+2024-01-01 00:59:08,Unknown,Medium,No Action Required
+2024-01-01 00:59:09,Enemy Drone,High,No Action Required
+2024-01-01 00:59:10,Enemy Drone,High,Adjust Course 5 Degrees North
+2024-01-01 00:59:11,Unknown,High,Initiate Scan Protocol
+2024-01-01 00:59:12,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 00:59:13,Unknown,High,No Action Required
+2024-01-01 00:59:14,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 00:59:15,Unknown,High,Prepare Defensive Measures
+2024-01-01 00:59:16,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:59:17,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 00:59:18,Enemy Drone,High,No Action Required
+2024-01-01 00:59:19,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:59:20,Unknown,High,Prepare Defensive Measures
+2024-01-01 00:59:21,Enemy Drone,High,No Action Required
+2024-01-01 00:59:22,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 00:59:23,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 00:59:24,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:59:25,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 00:59:26,Unknown,High,Maintain Current Course
+2024-01-01 00:59:27,Unknown,High,Maintain Current Course
+2024-01-01 00:59:28,Unknown,High,Maintain Current Course
+2024-01-01 00:59:29,Unknown,Medium,Maintain Current Course
+2024-01-01 00:59:30,Enemy Drone,High,Maintain Current Course
+2024-01-01 00:59:31,Enemy Drone,High,No Action Required
+2024-01-01 00:59:32,Enemy Drone,High,Maintain Current Course
+2024-01-01 00:59:33,Enemy Drone,High,No Action Required
+2024-01-01 00:59:34,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 00:59:35,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 00:59:36,Unknown,Medium,Prepare Defensive Measures
+2024-01-01 00:59:37,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 00:59:38,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 00:59:39,Unknown,High,Initiate Scan Protocol
+2024-01-01 00:59:40,Enemy Drone,High,No Action Required
+2024-01-01 00:59:41,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 00:59:42,Enemy Drone,High,No Action Required
+2024-01-01 00:59:43,Unknown,High,Prepare Defensive Measures
+2024-01-01 00:59:44,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 00:59:45,Enemy Drone,High,Adjust Course 5 Degrees North
+2024-01-01 00:59:46,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 00:59:47,Unknown,High,Adjust Course 5 Degrees North
+2024-01-01 00:59:48,Unknown,High,Maintain Current Course
+2024-01-01 00:59:49,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 00:59:50,Enemy Drone,High,Maintain Current Course
+2024-01-01 00:59:51,Unknown,High,Initiate Scan Protocol
+2024-01-01 00:59:52,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 00:59:53,Enemy Drone,High,No Action Required
+2024-01-01 00:59:54,Enemy Drone,High,Adjust Course 5 Degrees North
+2024-01-01 00:59:55,Enemy Drone,High,Maintain Current Course
+2024-01-01 00:59:56,Enemy Drone,High,No Action Required
+2024-01-01 00:59:57,Enemy Drone,High,Adjust Course 5 Degrees North
+2024-01-01 00:59:58,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 00:59:59,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:00:00,Enemy Drone,Medium,No Action Required
+2024-01-01 01:00:01,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:00:02,Unknown,Medium,Adjust Course 5 Degrees North
+2024-01-01 01:00:03,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:00:04,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:00:05,Unknown,High,Initiate Scan Protocol
+2024-01-01 01:00:06,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:00:07,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 01:00:08,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:00:09,Enemy Drone,High,Maintain Current Course
+2024-01-01 01:00:10,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:00:11,Enemy Drone,High,Maintain Current Course
+2024-01-01 01:00:12,Unknown,Medium,Initiate Scan Protocol
+2024-01-01 01:00:13,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 01:00:14,Enemy Drone,High,No Action Required
+2024-01-01 01:00:15,Enemy Drone,Medium,No Action Required
+2024-01-01 01:00:16,Enemy Drone,High,No Action Required
+2024-01-01 01:00:17,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:00:18,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:00:19,Enemy Drone,High,Maintain Current Course
+2024-01-01 01:00:20,Enemy Drone,High,No Action Required
+2024-01-01 01:00:21,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 01:00:22,Enemy Drone,High,No Action Required
+2024-01-01 01:00:23,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 01:00:24,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:00:25,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:00:26,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:00:27,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:00:28,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 01:00:29,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:00:30,Enemy Drone,High,No Action Required
+2024-01-01 01:00:31,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:00:32,Enemy Drone,High,No Action Required
+2024-01-01 01:00:33,Enemy Drone,Medium,No Action Required
+2024-01-01 01:00:34,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 01:00:35,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:00:36,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:00:37,Enemy Drone,High,Adjust Course 5 Degrees North
+2024-01-01 01:00:38,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:00:39,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:00:40,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:00:41,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:00:42,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:00:43,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:00:44,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:00:45,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:00:46,Enemy Drone,Medium,No Action Required
+2024-01-01 01:00:47,Enemy Drone,High,Initiate Scan Protocol
+2024-01-01 01:00:48,Enemy Drone,High,Maintain Current Course
+2024-01-01 01:00:49,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 01:00:50,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:00:51,Enemy Drone,Medium,No Action Required
+2024-01-01 01:00:52,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:00:53,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:00:54,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:00:55,Enemy Drone,High,Maintain Current Course
+2024-01-01 01:00:56,Enemy Drone,Medium,No Action Required
+2024-01-01 01:00:57,Enemy Drone,High,No Action Required
+2024-01-01 01:00:58,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:00:59,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:01:00,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:01:01,Enemy Drone,High,Prepare Defensive Measures
+2024-01-01 01:01:02,Enemy Drone,High,Adjust Course 5 Degrees North
+2024-01-01 01:01:03,Enemy Drone,High,No Action Required
+2024-01-01 01:01:04,Enemy Drone,Low,Adjust Course 5 Degrees North
+2024-01-01 01:01:05,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:06,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:01:07,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:01:08,Enemy Drone,High,Adjust Course 5 Degrees North
+2024-01-01 01:01:09,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:10,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:01:11,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:01:12,Enemy Drone,Low,No Action Required
+2024-01-01 01:01:13,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:01:14,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:15,Enemy Drone,Low,Adjust Course 5 Degrees North
+2024-01-01 01:01:16,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:01:17,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:18,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:01:19,Enemy Drone,Low,No Action Required
+2024-01-01 01:01:20,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:01:21,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:01:22,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:01:23,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:01:24,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:01:25,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:01:26,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:01:27,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:01:28,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:01:29,Enemy Drone,Low,Adjust Course 5 Degrees North
+2024-01-01 01:01:30,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 01:01:31,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:32,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:33,Enemy Drone,Low,No Action Required
+2024-01-01 01:01:34,Enemy Drone,Low,No Action Required
+2024-01-01 01:01:35,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:01:36,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:37,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:01:38,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:01:39,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:01:40,Enemy Drone,Low,Adjust Course 5 Degrees North
+2024-01-01 01:01:41,Enemy Drone,Medium,Initiate Scan Protocol
+2024-01-01 01:01:42,Enemy Drone,Medium,No Action Required
+2024-01-01 01:01:43,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:01:44,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:01:45,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:01:46,Enemy Drone,Low,No Action Required
+2024-01-01 01:01:47,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:01:48,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:01:49,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:50,Unknown,Low,Initiate Scan Protocol
+2024-01-01 01:01:51,Enemy Drone,Low,No Action Required
+2024-01-01 01:01:52,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:01:53,Enemy Drone,Low,No Action Required
+2024-01-01 01:01:54,Enemy Drone,Medium,Maintain Current Course
+2024-01-01 01:01:55,Enemy Drone,Medium,No Action Required
+2024-01-01 01:01:56,Unknown,Medium,Maintain Current Course
+2024-01-01 01:01:57,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:01:58,Unknown,Medium,Initiate Scan Protocol
+2024-01-01 01:01:59,Unknown,Medium,Prepare Defensive Measures
+2024-01-01 01:02:00,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 01:02:01,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 01:02:02,Enemy Drone,Low,No Action Required
+2024-01-01 01:02:03,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:02:04,Unknown,Low,No Action Required
+2024-01-01 01:02:05,Enemy Drone,Low,No Action Required
+2024-01-01 01:02:06,Enemy Drone,Low,Adjust Course 5 Degrees North
+2024-01-01 01:02:07,Enemy Drone,Low,No Action Required
+2024-01-01 01:02:08,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:02:09,Enemy Drone,Low,No Action Required
+2024-01-01 01:02:10,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:02:11,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:02:12,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:02:13,Enemy Drone,Low,Initiate Scan Protocol
+2024-01-01 01:02:14,Unknown,Low,No Action Required
+2024-01-01 01:02:15,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:02:16,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:02:17,Unknown,Low,Adjust Course 5 Degrees North
+2024-01-01 01:02:18,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:02:19,Unknown,Low,Maintain Current Course
+2024-01-01 01:02:20,Enemy Drone,Low,No Action Required
+2024-01-01 01:02:21,Enemy Drone,Low,Adjust Course 5 Degrees North
+2024-01-01 01:02:22,Enemy Drone,Medium,Adjust Course 5 Degrees North
+2024-01-01 01:02:23,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:02:24,Enemy Drone,Low,Adjust Course 5 Degrees North
+2024-01-01 01:02:25,Enemy Drone,Low,Maintain Current Course
+2024-01-01 01:02:26,Enemy Drone,Low,No Action Required
+2024-01-01 01:02:27,Enemy Drone,Low,Prepare Defensive Measures
+2024-01-01 01:02:28,Enemy Drone,Medium,Prepare Defensive Measures
+2024-01-01 01:02:29,Enemy Drone,Low,Maintain Current Course
